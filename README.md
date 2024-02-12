@@ -6,3 +6,6 @@ A new Flutter project.
 
 This is my first game using Flutter.
 
+<img src="images/demo.gif">
+<img src="images/screenshot_1.png">
+![](demo.mov)
