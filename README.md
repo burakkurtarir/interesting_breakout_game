@@ -4,10 +4,11 @@ A new Flutter project.
 
 ## Getting Started
 
-This is my first game using Flutter.
+This is my first game using Flutter. I used Flame.
+
+## Images, Gifs and Videos
 
 <img src="images/demo.gif">
 <img src="images/screenshot_1.png">
-<video width="320" height="240" controls>
-  <source src="demo.mov" type="video/mp4">
-</video>
+<br>
+Go to images folder to download video
